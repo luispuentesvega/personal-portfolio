@@ -1,0 +1,56 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/d79ade25c8be76d6b59317f3a16e698cf21327f6-03957df890ddaa165545.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-4c27afbe7e2b86f1d056.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-3d2b678c60fd907ea35a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-jsx-f1817c9a8e3bc9bfa29c.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-30e708ae25eab6c1aee3.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-3c0ffbf96432b26415b1.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-451fc1727d47ba657932.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/personal-portfolio/
+  Link: </personal-portfolio/webpack-runtime-30e708ae25eab6c1aee3.js>; rel=preload; as=script
+  Link: </personal-portfolio/framework-3c0ffbf96432b26415b1.js>; rel=preload; as=script
+  Link: </personal-portfolio/app-451fc1727d47ba657932.js>; rel=preload; as=script
+  Link: </personal-portfolio/d79ade25c8be76d6b59317f3a16e698cf21327f6-03957df890ddaa165545.js>; rel=preload; as=script
+  Link: </personal-portfolio/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-4c27afbe7e2b86f1d056.js>; rel=preload; as=script
+  Link: </personal-portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </personal-portfolio/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/personal-portfolio/offline-plugin-app-shell-fallback/
+  Link: </personal-portfolio/webpack-runtime-30e708ae25eab6c1aee3.js>; rel=preload; as=script
+  Link: </personal-portfolio/framework-3c0ffbf96432b26415b1.js>; rel=preload; as=script
+  Link: </personal-portfolio/app-451fc1727d47ba657932.js>; rel=preload; as=script
+  Link: </personal-portfolio/component---cache-caches-gatsby-plugin-offline-app-shell-js-3d2b678c60fd907ea35a.js>; rel=preload; as=script
+  Link: </personal-portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </personal-portfolio/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/personal-portfolio/404/
+  Link: </personal-portfolio/webpack-runtime-30e708ae25eab6c1aee3.js>; rel=preload; as=script
+  Link: </personal-portfolio/framework-3c0ffbf96432b26415b1.js>; rel=preload; as=script
+  Link: </personal-portfolio/app-451fc1727d47ba657932.js>; rel=preload; as=script
+  Link: </personal-portfolio/d79ade25c8be76d6b59317f3a16e698cf21327f6-03957df890ddaa165545.js>; rel=preload; as=script
+  Link: </personal-portfolio/component---src-pages-404-jsx-f1817c9a8e3bc9bfa29c.js>; rel=preload; as=script
+  Link: </personal-portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </personal-portfolio/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/personal-portfolio/404.html
+  Link: </personal-portfolio/webpack-runtime-30e708ae25eab6c1aee3.js>; rel=preload; as=script
+  Link: </personal-portfolio/framework-3c0ffbf96432b26415b1.js>; rel=preload; as=script
+  Link: </personal-portfolio/app-451fc1727d47ba657932.js>; rel=preload; as=script
+  Link: </personal-portfolio/d79ade25c8be76d6b59317f3a16e698cf21327f6-03957df890ddaa165545.js>; rel=preload; as=script
+  Link: </personal-portfolio/component---src-pages-404-jsx-f1817c9a8e3bc9bfa29c.js>; rel=preload; as=script
+  Link: </personal-portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </personal-portfolio/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
